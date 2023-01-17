@@ -1,3 +1,3 @@
-# react-apoyalo
+# react-poniendo-todo-junto
 
 Homework for Coding Dojo
